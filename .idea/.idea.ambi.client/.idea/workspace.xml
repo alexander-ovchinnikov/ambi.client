@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eb3b286-8686-43d0-b80b-262853bd074f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ambi.client/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ambi.client/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ambi.client/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ambi.client/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ambi.client/riderModule.iml" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy1.prefab" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy1.prefab" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BattleScenes/Forest.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/BattleScenes/Forest.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/Game.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/Game.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/Level.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/Level.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameInstaller.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/GameInstaller.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites.meta" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GameInstaller.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameInstaller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding>
+                <marker date="1517348211447" expanded="true" signature="73:187" ph="{...}" />
+                <marker date="1517348211447" expanded="true" signature="118:185" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScopeArgConditionCopyNonLazyBinder.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Binding/Binders/ScopeArgConditionCopyNonLazyBinder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding>
+                <marker date="1517340383775" expanded="true" signature="36:1045" ph="{...}" />
+                <marker date="1517340383775" expanded="true" signature="122:1043" ph="{...}" />
+                <marker date="1517340383775" expanded="true" signature="226:246" ph="{...}" />
+                <marker date="1517340383775" expanded="true" signature="303:358" ph="{...}" />
+                <marker date="1517340383775" expanded="true" signature="440:655" ph="{...}" />
+                <marker date="1517340383775" expanded="true" signature="712:805" ph="{...}" />
+                <marker date="1517340383775" expanded="true" signature="941:1037" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/Game.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <folding>
+                <marker date="1517348202651" expanded="true" signature="45:95" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Level.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/Level.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <marker date="1517346976491" expanded="true" signature="6:33" ph="..." />
+                <marker date="1517346976491" expanded="true" signature="69:493" ph="{...}" />
+                <marker date="1517346976491" expanded="true" signature="317:345" ph="{...}" />
+                <marker date="1517346976491" expanded="true" signature="362:491" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterSelector.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/CharacterSelector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <marker date="1517340383795" expanded="true" signature="6:116" ph="..." />
+                <marker date="1517340383795" expanded="true" signature="165:1190" ph="{...}" />
+                <marker date="1517340383795" expanded="true" signature="384:429" ph="{...}" />
+                <marker date="1517340383795" expanded="true" signature="455:491" ph="{...}" />
+                <marker date="1517340383795" expanded="true" signature="547:644" ph="{...}" />
+                <marker date="1517340383795" expanded="true" signature="702:1028" ph="{...}" />
+                <marker date="1517340383795" expanded="true" signature="1061:1188" ph="{...}" />
+                <marker date="1517340383795" expanded="true" signature="1121:1182" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SceneSelector.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/SceneSelector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <marker date="1517347660556" expanded="true" signature="6:101" ph="..." />
+                <marker date="1517347660556" expanded="true" signature="145:1007" ph="{...}" />
+                <marker date="1517347660556" expanded="true" signature="365:393" ph="{...}" />
+                <marker date="1517347660556" expanded="true" signature="439:724" ph="{...}" />
+                <marker date="1517347660556" expanded="true" signature="762:877" ph="{...}" />
+                <marker date="1517347660556" expanded="true" signature="804:871" ph="{...}" />
+                <marker date="1517347660556" expanded="true" signature="894:1005" ph="{...}" />
+                <marker date="1517347660556" expanded="true" signature="941:999" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZenjectSceneLoader.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Util/ZenjectSceneLoader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517347639988" expanded="true" signature="24:129" ph="..." />
+                <marker date="1517347639988" expanded="true" signature="148:5645" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="188:693" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="203:342" ph="/* This will use the ProjectContext container as parent for the new scene ... */" />
+                <marker date="1517347639988" expanded="true" signature="365:510" ph="/* This will use current scene as parent for the new scene ... */" />
+                <marker date="1517347639988" expanded="true" signature="534:670" ph="/* This will use the parent of the current scene as the parent for the next scene ... */" />
+                <marker date="1517347639988" expanded="true" signature="730:5643" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="942:1057" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="1106:1182" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="1255:1325" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="1446:1553" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="1747:1847" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="2092:2669" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="2398:2659" ph="/* It would be nice here to actually verify that the new scene has a SceneContext ... */" />
+                <marker date="1517347639988" expanded="true" signature="2733:2821" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="2909:2991" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="3127:3246" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="3455:3584" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="3844:4158" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="4376:5637" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="4436:4949" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="4543:4880" ph="/* Here we explicitly unload all existing scenes rather than relying on Unity to ... */" />
+                <marker date="1517347639988" expanded="true" signature="5011:5093" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="5160:5275" ph="{...}" />
+                <marker date="1517347639988" expanded="true" signature="5292:5480" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/SceneSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Binding/Binders/ScopeArgConditionCopyNonLazyBinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CharacterSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Util/ZenjectSceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Game.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Util/ZenjectSceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SceneSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameInstaller.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="169" />
+    <option name="y" value="122" />
+    <option name="width" value="1026" />
+    <option name="height" value="554" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ambi.client (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="4238" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb3b286-8686-43d0-b80b-262853bd074f" name="Default" comment="" />
+      <created>1517346081752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517346081752</updated>
+      <workItem from="1517346104178" duration="2114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2114000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="169" y="122" width="1026" height="554" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24951267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Game/Level.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Game/Level.cs">
+            <startOffsets>
+              <startOffset value="367" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="368" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="Game" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>Game</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Util/ZenjectSceneLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517347639988" expanded="true" signature="24:129" ph="..." />
+            <marker date="1517347639988" expanded="true" signature="148:5645" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="188:693" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="203:342" ph="/* This will use the ProjectContext container as parent for the new scene ... */" />
+            <marker date="1517347639988" expanded="true" signature="365:510" ph="/* This will use current scene as parent for the new scene ... */" />
+            <marker date="1517347639988" expanded="true" signature="534:670" ph="/* This will use the parent of the current scene as the parent for the next scene ... */" />
+            <marker date="1517347639988" expanded="true" signature="730:5643" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="942:1057" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="1106:1182" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="1255:1325" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="1446:1553" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="1747:1847" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="2092:2669" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="2398:2659" ph="/* It would be nice here to actually verify that the new scene has a SceneContext ... */" />
+            <marker date="1517347639988" expanded="true" signature="2733:2821" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="2909:2991" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="3127:3246" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="3455:3584" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="3844:4158" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="4376:5637" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="4436:4949" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="4543:4880" ph="/* Here we explicitly unload all existing scenes rather than relying on Unity to ... */" />
+            <marker date="1517347639988" expanded="true" signature="5011:5093" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="5160:5275" ph="{...}" />
+            <marker date="1517347639988" expanded="true" signature="5292:5480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/SceneSelector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <marker date="1517347660556" expanded="true" signature="6:101" ph="..." />
+            <marker date="1517347660556" expanded="true" signature="145:1007" ph="{...}" />
+            <marker date="1517347660556" expanded="true" signature="365:393" ph="{...}" />
+            <marker date="1517347660556" expanded="true" signature="439:724" ph="{...}" />
+            <marker date="1517347660556" expanded="true" signature="762:877" ph="{...}" />
+            <marker date="1517347660556" expanded="true" signature="804:871" ph="{...}" />
+            <marker date="1517347660556" expanded="true" signature="894:1005" ph="{...}" />
+            <marker date="1517347660556" expanded="true" signature="941:999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/CharacterSelector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1517340383795" expanded="true" signature="6:116" ph="..." />
+            <marker date="1517340383795" expanded="true" signature="165:1190" ph="{...}" />
+            <marker date="1517340383795" expanded="true" signature="384:429" ph="{...}" />
+            <marker date="1517340383795" expanded="true" signature="455:491" ph="{...}" />
+            <marker date="1517340383795" expanded="true" signature="547:644" ph="{...}" />
+            <marker date="1517340383795" expanded="true" signature="702:1028" ph="{...}" />
+            <marker date="1517340383795" expanded="true" signature="1061:1188" ph="{...}" />
+            <marker date="1517340383795" expanded="true" signature="1121:1182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameInstaller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <marker date="1517348211447" expanded="true" signature="73:187" ph="{...}" />
+            <marker date="1517348211447" expanded="true" signature="118:185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Binding/Binders/ScopeArgConditionCopyNonLazyBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <marker date="1517340383775" expanded="true" signature="36:1045" ph="{...}" />
+            <marker date="1517340383775" expanded="true" signature="122:1043" ph="{...}" />
+            <marker date="1517340383775" expanded="true" signature="226:246" ph="{...}" />
+            <marker date="1517340383775" expanded="true" signature="303:358" ph="{...}" />
+            <marker date="1517340383775" expanded="true" signature="440:655" ph="{...}" />
+            <marker date="1517340383775" expanded="true" signature="712:805" ph="{...}" />
+            <marker date="1517340383775" expanded="true" signature="941:1037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1517348202651" expanded="true" signature="45:95" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/Level.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1517346976491" expanded="true" signature="6:33" ph="..." />
+            <marker date="1517346976491" expanded="true" signature="69:493" ph="{...}" />
+            <marker date="1517346976491" expanded="true" signature="317:345" ph="{...}" />
+            <marker date="1517346976491" expanded="true" signature="362:491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

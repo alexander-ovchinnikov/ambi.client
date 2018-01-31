@@ -1,14 +1,16 @@
 ﻿using UnityEngine;
 using Zenject;
-using Zenject.SpaceFighter;
 
 public class Level : MonoBehaviour
 {
     [Inject] private IGame Game;
-    public BotCharacter Enemy;
-    public Character Player;
-    public Transform Holder1;
-    public Transform Holder2;
+    [SerializeField]
+    private BotCharacter Enemy;
+    private Character Player;
+    [SerializeField]
+    private Transform Holder1;
+    [SerializeField]
+    private Transform Holder2;
 
     private void Start()
     {

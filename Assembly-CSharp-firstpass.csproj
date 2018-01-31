@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{3BFF782C-312D-8AFA-9A27-0B7B4DAC1110}</ProjectGuid>
+    <ProjectGuid>{40DE15DC-F270-896B-DC0D-88E82A5AA5D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -352,7 +352,7 @@
       <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/home/silago/work/ambidexter.io/Library/resharper-unity-libs/nunit3.5.0/nunit.framework.dll</HintPath>
+      <HintPath>/home/silago/work/ambi.client/Library/resharper-unity-libs/nunit3.5.0/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Timeline">
       <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
@@ -364,7 +364,7 @@
       <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>/home/silago/work/ambidexter.io/Assets/Plugins/Photon/Photon3Unity3D.dll</HintPath>
+      <HintPath>/home/silago/work/ambi.client/Assets/Plugins/Photon/Photon3Unity3D.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
