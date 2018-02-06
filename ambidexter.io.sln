@@ -1,11 +1,11 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{3BFF782C-312D-8AFA-9A27-0B7B4DAC1110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ambidexter.io", "Assembly-CSharp-firstpass.csproj", "{3BFF782C-312D-8AFA-9A27-0B7B4DAC1110}"
 EndProject
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BED3352D-9CF9-477F-D61F-23A08C30FF5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ambidexter.io", "Assembly-CSharp.csproj", "{BED3352D-9CF9-477F-D61F-23A08C30FF5C}"
 EndProject
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{13F376B4-1DF2-82DA-6569-83E06FB8FAD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ambidexter.io", "Assembly-CSharp-Editor-firstpass.csproj", "{13F376B4-1DF2-82DA-6569-83E06FB8FAD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

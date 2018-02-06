@@ -458,29 +458,39 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Game" t="Include">
+          <e p="GameInstaller.cs" t="Include" />
+          <e p="Gameplay" t="Include">
+            <e p="BattleController.cs" t="Include" />
             <e p="BotCharacter.cs" t="Include" />
             <e p="BotServerControl.cs" t="Include" />
             <e p="Character.cs" t="Include" />
             <e p="Game.cs" t="Include" />
             <e p="HumanCharacter.cs" t="Include" />
             <e p="HumanControl.cs" t="Include" />
-            <e p="IPlayerControl.cs" t="Include" />
-            <e p="Level.cs" t="Include" />
-          </e>
-          <e p="GameInstaller.cs" t="Include" />
-          <e p="Networking" t="Include">
-            <e p="PhotonServer.cs" t="Include" />
-          </e>
-          <e p="SceneController.cs" t="Include" />
-          <e p="UI" t="Include">
-            <e p="CharacterSelector.cs" t="Include" />
-            <e p="IGame.cs" t="Include" />
             <e p="Interfaces" t="Include">
               <e p="ICharacter.cs" t="Include" />
+              <e p="IGame.cs" t="Include" />
+              <e p="IPlayerControl.cs" t="Include" />
             </e>
+            <e p="Level.cs" t="Include" />
+            <e p="LevelUI.cs" t="Include" />
+            <e p="ScoreSontroller.cs" t="Include" />
+          </e>
+          <e p="Networking" t="Include">
+            <e p="Common" t="Include">
+              <e p="BattleEvent.cs" t="Include" />
+              <e p="EventCodes.cs" t="Include" />
+              <e p="InitEvent.cs" t="Include" />
+              <e p="RequestCodes.cs" t="Include" />
+            </e>
+            <e p="PhotonServer.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CharacterSelector.cs" t="Include" />
             <e p="LevelButton.cs" t="Include" />
             <e p="SceneSelector.cs" t="Include" />
+            <e p="StatisticPanel.cs" t="Include" />
           </e>
           <e p="Utils" t="Include">
             <e p="DoNotDestroyOnLoad.cs" t="Include" />

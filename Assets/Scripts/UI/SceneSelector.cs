@@ -1,45 +1,49 @@
 ﻿using System;
 using System.Linq;
+using Gameplay.Interfaces;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Zenject;
 
-public class SceneSelector : MonoBehaviour
+namespace UI
 {
-    [Inject] private IGame Game;
-    [SerializeField] private String[] Scenes;
-    [SerializeField] private Transform _buttonsHolder;
-    [SerializeField] private LevelButton _buttonTemplate;
-
-    private void Start()
+    public class SceneSelector : MonoBehaviour
     {
-        Init();
-    }
+        [Inject] private IGame Game;
+        [SerializeField] private String[] Scenes;
+        [SerializeField] private Transform _buttonsHolder;
+        [SerializeField] private LevelButton _buttonTemplate;
 
-    void CreateSceneButton(string sceneName)
-    {
-        LevelButton button = Instantiate(_buttonTemplate, _buttonsHolder);
-
-        button.Button.onClick.AddListener(
-            () => { LoadLevel(sceneName); }
-        );
-        button.Text.text = sceneName.Split('/').Last();
-        button.gameObject.SetActive(true);
-    }
-
-    void LoadLevel(string sceneName)
-    {
-        if (Game.Character != null)
+        private void Start()
         {
-            SceneManager.LoadScene(sceneName);
+            Init();
         }
-    }
 
-    void Init()
-    {
-        foreach (string scene in Scenes)
+        void CreateSceneButton(string sceneName)
         {
-            CreateSceneButton(scene);
+            LevelButton button = Instantiate(_buttonTemplate, _buttonsHolder);
+
+            button.Button.onClick.AddListener(
+                () => { LoadLevel(sceneName); }
+            );
+            button.Text.text = sceneName.Split('/').Last();
+            button.gameObject.SetActive(true);
+        }
+
+        void LoadLevel(string sceneName)
+        {
+            if (Game.BattleController.Player != null)
+            {
+                SceneManager.LoadScene(sceneName);
+            }
+        }
+
+        void Init()
+        {
+            foreach (string scene in Scenes)
+            {
+                CreateSceneButton(scene);
+            }
         }
     }
 }

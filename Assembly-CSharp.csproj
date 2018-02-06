@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{CFE81D52-2ED5-D0CE-C3A5-65851A4AE861}</ProjectGuid>
+    <ProjectGuid>{BED3352D-9CF9-477F-D61F-23A08C30FF5C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,22 +52,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Game\BotCharacter.cs" />
-    <Compile Include="Assets\Scripts\Game\BotServerControl.cs" />
-    <Compile Include="Assets\Scripts\Game\Character.cs" />
-    <Compile Include="Assets\Scripts\Game\Game.cs" />
-    <Compile Include="Assets\Scripts\Game\HumanCharacter.cs" />
-    <Compile Include="Assets\Scripts\Game\HumanControl.cs" />
-    <Compile Include="Assets\Scripts\Game\IPlayerControl.cs" />
-    <Compile Include="Assets\Scripts\Game\Level.cs" />
     <Compile Include="Assets\Scripts\GameInstaller.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\BattleController.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\BotCharacter.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\BotServerControl.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\Character.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\Game.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\HumanCharacter.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\HumanControl.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\Interfaces\ICharacter.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\Interfaces\IGame.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\Interfaces\IPlayerControl.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\Level.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\LevelUI.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\ScoreSontroller.cs" />
+    <Compile Include="Assets\Scripts\Networking\Common\BattleEvent.cs" />
+    <Compile Include="Assets\Scripts\Networking\Common\EventCodes.cs" />
+    <Compile Include="Assets\Scripts\Networking\Common\InitEvent.cs" />
+    <Compile Include="Assets\Scripts\Networking\Common\RequestCodes.cs" />
     <Compile Include="Assets\Scripts\Networking\PhotonServer.cs" />
-    <Compile Include="Assets\Scripts\SceneController.cs" />
+    <Compile Include="Assets\Scripts\Networking\User.cs" />
     <Compile Include="Assets\Scripts\UI\CharacterSelector.cs" />
-    <Compile Include="Assets\Scripts\UI\IGame.cs" />
-    <Compile Include="Assets\Scripts\UI\Interfaces\ICharacter.cs" />
     <Compile Include="Assets\Scripts\UI\LevelButton.cs" />
     <Compile Include="Assets\Scripts\UI\SceneSelector.cs" />
+    <Compile Include="Assets\Scripts\UI\StatisticPanel.cs" />
     <Compile Include="Assets\Scripts\Utils\DoNotDestroyOnLoad.cs" />
     <None Include="Assets\Plugins\Zenject\OptionalExtras\SampleGame1 (Beginner)\Media\Imported\Shaders\Particle Alpha Blend_IgnoreFog.shader" />
     <None Include="Assets\Jeremy\Docs\MaleCharacterAnimation.txt" />
@@ -87,7 +95,7 @@
       <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/home/silago/work/ambi.client/Library/resharper-unity-libs/nunit3.5.0/nunit.framework.dll</HintPath>
+      <HintPath>/home/silago/work/ambidexter.io/Library/resharper-unity-libs/nunit3.5.0/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Timeline">
       <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
@@ -99,12 +107,12 @@
       <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>/home/silago/work/ambi.client/Assets/Plugins/Photon/Photon3Unity3D.dll</HintPath>
+      <HintPath>/home/silago/work/ambidexter.io/Assets/Plugins/Photon/Photon3Unity3D.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{40DE15DC-F270-896B-DC0D-88E82A5AA5D6}</Project>
+      <Project>{3BFF782C-312D-8AFA-9A27-0B7B4DAC1110}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>

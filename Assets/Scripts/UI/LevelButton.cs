@@ -1,18 +1,21 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-public class LevelButton : MonoBehaviour
+namespace UI
 {
-    [SerializeField] private Button _button;
-    [SerializeField] private Text _text;
-
-    public Button Button
+    public class LevelButton : MonoBehaviour
     {
-        get { return _button; }
-    }
+        [SerializeField] private Button _button;
+        [SerializeField] private Text _text;
 
-    public Text Text
-    {
-        get { return _text; }
+        public Button Button
+        {
+            get { return _button; }
+        }
+
+        public Text Text
+        {
+            get { return _text; }
+        }
     }
 }

@@ -9,5 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: b5636ca93a99e4239be5f500420234e1
   - enabled: 1
-    path: Assets/Scenes/BattleScenes/Forest.unity
+    path: Assets/Scenes/BattleScenes/Forest1.unity
     guid: fe3b87157ac854f55ad166c3de18f33b
+  - enabled: 1
+    path: Assets/Scenes/BattleScenes/Forest2.unity
+    guid: a8f3c0da1c2a94fdeba306b56769712d
+  - enabled: 1
+    path: Assets/Scenes/BattleScenes/Forest3.unity
+    guid: 1959283d093404896963b54a0f2e9d52
